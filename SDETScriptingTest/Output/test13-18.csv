@@ -1,0 +1,7 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible
+IWL_2e,938.1156,10-E.938.115.64.B.8.57820877,City Circle via Town Hall,,1,1160,IWL_2e,0
+CMB_2d,938.1155,55AF.938.115.48.M.4.57822413,Schof,,0,11410,CMB_2d,0
+ESI_2d,1396.1191,600C.1396.119.16.T.8.58024420,Bondi Junction,,1,24531,ESI_2d,0
+RTTA_REV,938.1154,K712.938.115.4.H.8.57824817,Empty Train,,1,,RTTA_REVE,1
+BMT_21,1397.1212,W788.1397.121.2.V.4.57842027,Empty Train,,1,17035,BMT_2,0
+OLY_2b,1396.1192,L2BW.1396.119.28.T.4.58026192,Sydney Olympic Park,,1,32236,OLY_2b,0
